@@ -1,0 +1,33 @@
+name: clean_architecture_tdd
+description: TDD Clean Architecture for Flutter
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get_it: ^2.0.1
+
+  flutter_bloc: ^0.21.0
+
+  equatable: ^0.4.0
+
+  dartz: ^0.9.1
+
+  connectivity: ^0.4.3+7
+
+  http: ^0.12.1
+
+  shared_preferences: ^0.5.7+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^4.1.0
+
+flutter:
+  uses-material-design: true
