@@ -1,0 +1,3 @@
+export '../bloc/number_trivia_bloc.dart';
+export '../bloc/number_trivia_event.dart';
+export 'number_trivia_state.dart';
