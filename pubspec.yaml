@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  get_it: ^2.0.1
+  get_it: ^4.0.2
 
   flutter_bloc: ^0.21.0
 
